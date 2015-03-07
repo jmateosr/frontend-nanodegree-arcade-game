@@ -1,6 +1,7 @@
-frontend-nanodegree-arcade-game
-===============================
+# P3 - Object-Oriented JS & HTML5 Canvas #
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+This exercise is a fork of the frontend-nanodegree-arcade-game Project (P3 of the Front-End developer Nanodegree).
 
-for self-checking their submission.
+Please, to begin playing the game, download all the files and then run the index.html.
+
+You must play the game using your computer (you'll need the arrow keys to move the player).

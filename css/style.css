@@ -1,3 +1,15 @@
 body {
     text-align: center;
+    background-color: #6b6b6b;
+}
+
+h1 {
+	font-size: 22px;
+ 	font-family: sans-serif;
+ 	color: orange;
+ 	text-decoration: underline;
+}
+
+canvas {
+	margin-top: 0px;
 }
